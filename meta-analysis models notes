@@ -1,2 +1,7 @@
+#Notes from: "Tutorial on meta-analysis in R"
 # Fixed -> Same mean ES, zero between-study variance
 # Random -> Different mean ES, between-study variance
+# ES= effect size
+#The Random effects model regards the studies as a sample of a larger universe of studies.
+#The Random effects model can be used to infer what would likely happen if a new study were performed, the FE model cannot.
+Common practice is to report both fixed and random effects model results.
