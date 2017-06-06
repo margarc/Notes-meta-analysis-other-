@@ -1,5 +1,7 @@
 #Notes from: "Tutorial on meta-analysis in R"
 # Fixed -> Same mean ES, zero between-study variance
+# Fixed effect model. The observed effects are sampled from a distribution with true effect μ, and variance σ2. The observed effect
+# T1 is equal to μ+εi. 
 # Random -> Different mean ES, between-study variance
 # ES= effect size
 #The Random effects model regards the studies as a sample of a larger universe of studies.
