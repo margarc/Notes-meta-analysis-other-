@@ -10,7 +10,7 @@
 # ES= effect size
 #The Random effects model regards the studies as a sample of a larger universe of studies.
 #The Random effects model can be used to infer what would likely happen if a new study were performed, the FE model cannot.
-Common practice is to report both fixed and random effects model results.
+# Common practice is to report both fixed and random effects model results.
 #
 # "Under the random effects model we allow that the true effect could vary from study to study. 
 # For example, the effect size might be a little higher if the subjects are older, or more educated, or healthier; or if the study used a
@@ -18,7 +18,8 @@ Common practice is to report both fixed and random effects model results.
 # The studies included in the meta-analysis are assumed to be a random sample of the relevant distribution of effects, and
 # the combined effect estimates the mean effect in this distribution (Borenstein et al 2007) "
 #
-# In the REM: Boxes for the large studies have decreased area while those for the small studies such as have increased area. 
+# In the REM: Boxes for the large studies have decreased area while those for the small studies such as have increased area. As we move from fixed effect to random effects,
+# extreme studies will lose influence if they are large, and will gain influence if they are small. (Borenstein et al 2007)
 #
 # "As compared with the fixed effect model, the weights assigned under random effects are more balanced. Large studies are less likely
 # to dominate the analysis and small studies are less likely to seem less important."
