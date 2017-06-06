@@ -5,3 +5,16 @@
 #The Random effects model regards the studies as a sample of a larger universe of studies.
 #The Random effects model can be used to infer what would likely happen if a new study were performed, the FE model cannot.
 Common practice is to report both fixed and random effects model results.
+#
+# "Under the random effects model we allow that the true effect could vary from study to study. 
+# For example, the effect size might be a little higher if the subjects are older, or more educated, or healthier; or if the study used a
+# slightly more intensive or longer variant of the intervention; or if the effect was measured more reliably; and so on. 
+# The studies included in the meta-analysis are assumed to be a random sample of the relevant distribution of effects, and
+# the combined effect estimates the mean effect in this distribution."
+#
+# "As compared with the fixed effect model, the weights assigned under random effects are more balanced. Large studies are less likely
+# to dominate the analysis and small studies are less likely to seem less important."
+
+
+
+
