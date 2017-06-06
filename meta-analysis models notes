@@ -18,6 +18,8 @@ Common practice is to report both fixed and random effects model results.
 # The studies included in the meta-analysis are assumed to be a random sample of the relevant distribution of effects, and
 # the combined effect estimates the mean effect in this distribution (Borenstein et al 2007) "
 #
+# In the REM: Boxes for the large studies have decreased area while those for the small studies such as have increased area. 
+#
 # "As compared with the fixed effect model, the weights assigned under random effects are more balanced. Large studies are less likely
 # to dominate the analysis and small studies are less likely to seem less important."
 
