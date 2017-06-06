@@ -23,7 +23,7 @@
 #
 # "As compared with the fixed effect model, the weights assigned under random effects are more balanced. Large studies are less likely
 # to dominate the analysis and small studies are less likely to seem less important."
-
-
+# in our case we cannot assume a common effect size cz studies differ in various ways. Results generalisable to a range of populations 
+# not just one specific. 
 
 
