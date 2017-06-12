@@ -1,2 +1,1 @@
-# Notes-meta-analysis-other-
-# notes general
+# Notes-meta-analysis & other general
