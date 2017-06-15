@@ -7,3 +7,9 @@ Shape: Funnel with straight 95% confidence lines.
 top of the graph. 
 
 All above from paper: Sterne & Egger 2001 
+---------------------------------------------------------------------------------------------------------------
+Multipanel plots
+par(mfrow), layout(), split.screen()
+
+mfrow plots row by row and mfcol plots column by column.
+But how to combine forest & funnel plots
