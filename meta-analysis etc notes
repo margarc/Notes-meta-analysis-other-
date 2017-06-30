@@ -41,3 +41,5 @@ The power of the test could be increased by increasing the sample size, which de
 ------------------------------------------------------------------------------------------------------------------------------------
 The I squared statistic is a description of the proportion of total variation in study estimates due to
 heterogeneity (Higgins, 2002).
+Also consider size & direction of effects 
+Forest plot: Larger boxes show a study that has higher precision, and greater weight
