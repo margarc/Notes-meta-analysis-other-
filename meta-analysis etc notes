@@ -42,4 +42,14 @@ The power of the test could be increased by increasing the sample size, which de
 The I squared statistic is a description of the proportion of total variation in study estimates due to
 heterogeneity (Higgins, 2002).
 Also consider size & direction of effects 
+
 Forest plot: Larger boxes show a study that has higher precision, and greater weight
+------------------------------------------------------------------------------------------------------------------------
+DETECTING BIASES
+**Egger et al. (1997) proposed a test for asymmetry of the funnel plot. This is a test for the Y intercept = 0 from a linear regression of normalized effect estimate 
+(estimate divided by its standard error) against precision (reciprocal of the standard error of the estimate. 
+Please note that the power of this method to detect bias will be low with small numbers of studies. 
+
+**Begg and Mazumdar (1994) proposed testing the interdependence of variance and effect size using Kendall's method. 
+This bias indicator makes fewer assumptions than that of Egger et al. but it is insensitive to many types of bias to which the Egger test is sensitive. 
+Unless you have many studies in your meta-analysis, the Begg method has very low power to detect biases (Sterne et al., 2000).
