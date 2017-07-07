@@ -13,3 +13,10 @@ par(mfrow), layout(), split.screen()
 
 mfrow plots row by row and mfcol plots column by column.
 But how to combine forest & funnel plots
+----------------------------------------------------------------------------------------------------------------
+# See paper: Sterne et al 2011 "Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials."
+# Br. Med. J. 343, d4002 (2011). 
+# Funnel plot asymmetry wrongly equated with publication or other reporting biases.
+# Also known as "Small study effects"
+# 
+# Funnel plot = scatter plot that shows the effect estimates from individual studies against some measure of each study's size or precision.
