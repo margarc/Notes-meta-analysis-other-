@@ -20,4 +20,12 @@ But how to combine forest & funnel plots
 # Also known as "Small study effects"
 # 
 # Funnel plot = scatter plot that shows the effect estimates from individual studies against some measure of each study's size or precision.
+# Usually standard error of the effect estimate is chosen as the measure of study size and it is plotted on the vertical axis with a reversed 
+# scale that places larger, more powerful studies at the top. Smaller studies would scatter at the bottom 
 # from (Sterne 2011)
+# Possible sources of asymmetry in funnel plots (adapted from Egger et al):
+# 1. Reporting biases e.g. publication biases, selective outcome reporting, selective analysis reporting.
+# 2. Poor methodological quality leading to spuriously inflated effects in smaller studies e.g poor methodological design, inadequate analysis. 
+# 3. True heterogeneity
+# 4. Sampling variation can lead to an association between the intervention effect and its standard error
+# 5. Asymmetry by chance
