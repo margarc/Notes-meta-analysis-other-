@@ -31,3 +31,13 @@ But how to combine forest & funnel plots
 # 3. True heterogeneity
 # 4. Sampling variation can lead to an association between the intervention effect and its standard error
 # 5. Asymmetry by chance
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+Sensitivity analysis checks robustness of results 
+Should be determined a priori where possible (often difficult to specify from before)
+
+Vs
+
+Subgroup analyses: are done for subsets of participants (or subsets of studies)
+---------------------------------------------------------------------------------
