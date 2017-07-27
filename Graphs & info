@@ -17,7 +17,9 @@ But how to combine forest & funnel plots
 # See paper: Sterne et al 2011 "Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials."
 # Br. Med. J. 343, d4002 (2011). 
 # Funnel plot asymmetry wrongly equated with publication or other reporting biases.
-# Also known as "Small study effects"
+# Also known as 
+# "Small study effects": the phenomenon that smaller studies sometimes show different, often larger, treatment effects than large ones. 
+
 # 
 # Funnel plot = scatter plot that shows the effect estimates from individual studies against some measure of each study's size or precision.
 # Usually standard error of the effect estimate is chosen as the measure of study size and it is plotted on the vertical axis with a reversed 
